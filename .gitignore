@@ -1,0 +1,19 @@
+#Installation Wordpress
+/wp-cms/*
+
+#Contenus non versionnés
+/wp-content/uploads/
+/wp-content/plugins/
+
+#Configuration
+/wp-config.php
+
+#theme useless
+/wp-content/themes/quality-blue
+/wp-content/themes/twentynineteen
+/wp-content/themes/twentyseventeen
+/wp-content/themes/twentysixteen
+
+/wp-content/packages_fullcalendar
+
+/wp-content/gallery
